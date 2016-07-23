@@ -5,8 +5,9 @@
 * http://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean
 
 ##### Eclipse
-* File > Export > Export JAR File
-  * Jar File Specification
-  * Jar Packaging Options
-  * Jar Manifest Specification
-  * 
+* File > Export > Runnable JAR file
+  * Runnable JAR File Specification
+    * Launch configuration: 
+    * Export destination: 
+    * Library handling: Package required libraries into generated JAR
+    * Finish
